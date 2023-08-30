@@ -1,4 +1,5 @@
 # Agustin Ibar's GitHub Profile
+![Banner Image](https://cms-assets.themuse.com/media/lead/_800x418_crop_center-center_82_none/01212022-1047259374-coding-classes_scanrail.jpg?mtime=1642798879)
 
 ## Professional Profile
 
@@ -18,13 +19,12 @@ Currently, after graduating from Henry, I am focused on learning Python, with a 
 
 I am excited to continue my career in the technology industry, taking on new challenges and achieving even more ambitious goals. My background in teamwork, my ability to adapt to any environment, and my passion for technology make me a valuable asset to any IT team.
 
-![Image from the Internet](URL_TO_IMAGE)
 
 ## GitHub Statistics
 
-- **Total Repositories**: X
-- **Contributions in the Last Year**: Y
-- **Followers**: Z
+- **Total Repositories**: 
+- **Contributions in the Last Year**:
+- **Followers**: 
 
 Feel free to reach out to me at [Your Email Address] or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) for further inquiries or collaborations.
 

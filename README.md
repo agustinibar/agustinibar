@@ -1,4 +1,4 @@
-# Agustin Ibar's GitHub Profile
+# Hi!! I'm Agustin Ibar, fullstack developer 👨‍💻
 ![Banner Image](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg)
 
 ## Professional Profile
@@ -20,13 +20,7 @@ Currently, after graduating from Henry, I am focused on learning Python, with a 
 I am excited to continue my career in the technology industry, taking on new challenges and achieving even more ambitious goals. My background in teamwork, my ability to adapt to any environment, and my passion for technology make me a valuable asset to any IT team.
 
 
-## GitHub Statistics
-
-- **Total Repositories**: 
-- **Contributions in the Last Year**:
-- **Followers**: 
-
-Feel free to reach out to me at [Your Email Address] or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) for further inquiries or collaborations.
+Feel free to reach out to me at agustinibarperrotta@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/agustin-ibar-59b123215/) for further inquiries or collaborations.
 
 <!--
 **agustinibar/agustinibar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 # Agustin Ibar's GitHub Profile
-![Banner Image](https://cms-assets.themuse.com/media/lead/_800x418_crop_center-center_82_none/01212022-1047259374-coding-classes_scanrail.jpg?mtime=1642798879)
+![Banner Image](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg)
 
 ## Professional Profile
 
